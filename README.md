@@ -39,7 +39,7 @@ Reported bugs can be sent to chanonm@live.com
 
 ```
 
-* Create a crontab job on your server
+* Create a crontab job on your server every two hours
 
 ```
 
