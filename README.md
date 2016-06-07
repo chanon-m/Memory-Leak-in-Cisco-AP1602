@@ -5,7 +5,7 @@ In case you have a memory leak issue in Cisco AP1602, you can you this script to
 #Licensing Information: READ LICENSE
 
 #Project source can be downloaded from
-##https://github.com/chanon-m/Memory-Leak-in-Cisco-AP1602-.git
+##https://github.com/chanon-m/Memory-Leak-in-Cisco-AP1602.git
 
 #Author & Contributor
 
@@ -19,7 +19,7 @@ Reported bugs can be sent to chanonm@live.com
 
 ```
 
-# git clone https://github.com/chanon-m/Memory-Leak-in-Cisco-AP1602-.git
+# git clone https://github.com/chanon-m/Memory-Leak-in-Cisco-AP1602.git
 
 ```
 
